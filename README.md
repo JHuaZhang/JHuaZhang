@@ -19,11 +19,6 @@
 
 </div>
 
+📈 我的github状态
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JHuaZhang&show_icons=true&theme=gotham" alt="JHuaZhang" />
-
-
-
-
+<p align="center"> <img src="https://github-readme-stats-lovat-beta.vercel.app/api?theme=gotham&username=JHuaZhang&show_icons=true" alt="JHuaZhang" />
