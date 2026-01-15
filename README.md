@@ -26,6 +26,6 @@
 
 </div>
 
-📈 我的 GitHub 统计：
+**📈 我的GitHub统计：**
 
 <p> <img src="https://github-readme-stats-lovat-beta.vercel.app/api?theme=gotham&username=JHuaZhang&show_icons=true" alt="JHuaZhang" />
