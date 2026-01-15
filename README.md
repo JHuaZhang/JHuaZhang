@@ -4,12 +4,12 @@
 
 **我的技术栈：**
 
-<code><img height="20" src="./assets/javascript.png"></code>
-<code><img height="20" src="./assets/typescript.png"></code>
-<code><img height="20" src="./assets/react.png"></code>
-<code><img height="20" src="./assets/nodejs.png"></code>
-<code><img height="20" src="./assets/vue.png"></code>
-<code><img height="20" src="./assets/webpack.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JHuaZhang/JHuaZhang/main/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JHuaZhang/JHuaZhang/main/assets/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JHuaZhang/JHuaZhang/main/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JHuaZhang/JHuaZhang/main/assets/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JHuaZhang/JHuaZhang/main/assets/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JHuaZhang/JHuaZhang/main/assets/webpack.png"></code>
 
 **我的笔记沉淀：**
 
