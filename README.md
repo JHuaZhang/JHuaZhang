@@ -13,11 +13,11 @@
 
 **我的笔记沉淀：**
 
-- [Docker](https://jhuazhang.github.io/zjh-blog/dev-ops/docker-01-introduction)
-- [TypeScript](https://jhuazhang.github.io/zjh-blog/type-script/base-01-type-script)
+- [Docker](https://jhuazhang.github.io/zjh-blog/release/docker-01-introduction)
+- [Linux](https://jhuazhang.github.io/zjh-blog/release/linux-01-directory-structure)
+- [Nginx](https://jhuazhang.github.io/zjh-blog/release/nginx-01-introduction)
+- [TypeScript](https://jhuazhang.github.io/zjh-blog/type-script/01-type-script)
 - [日常分享](https://jhuazhang.github.io/zjh-blog/share/01-beautify-github)
-- [Linux](https://jhuazhang.github.io/zjh-blog/dev-ops/linux-01-directory-structure)
-- [Nginx](https://jhuazhang.github.io/zjh-blog/dev-ops/nginx-01-introduction)
 
 <div align="center">
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
